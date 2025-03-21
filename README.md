@@ -1,8 +1,8 @@
-Este material se refere as aulas de Linguagem de programação da Escola técnica da Ceilândia.
+# Este material se refere as aulas de Linguagem de programação da Escola técnica da Ceilândia - ETC.
 
 Este repositório contém um sistema simples de CRUD (Create, Read, Update, Delete) desenvolvido em PHP para cadastro de clientes. O projeto tem como objetivo demonstrar a implementação básica de operações de banco de dados utilizando PHP e MySQL.
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 PHP
 
@@ -10,7 +10,7 @@ MySQL
 
 HTML
 
-Funcionalidades
+## Funcionalidades
 
 Cadastro de clientes
 
@@ -20,19 +20,19 @@ Atualização de dados do cliente
 
 Exclusão de clientes
 
-Como Usar
+## Como Usar
 
 1. Clonar o repositório
 
 2. Configurar o banco de dados
 
-Crie um banco de dados no MySQL.
+## Crie um banco de dados no MySQL.
 
 Importe o arquivo projetoETC.sql localizado no repositório para criar as tabelas necessárias.
 
 Configure a conexão com o banco de dados no arquivo config.php.
 
-3. Executar o projeto
+## 3. Executar o projeto
 
 Inicie um servidor local como XAMPP, WAMP ou MAMP.
 
