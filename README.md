@@ -23,16 +23,18 @@ Exclusão de clientes
 ## Como Usar
 
 1. Clonar o repositório
+   
+   git clone https://github.com/ProfCristianoMorais/02-conexaobd.git
 
-2. Configurar o banco de dados
+## 3. Configurar o banco de dados
 
-## Crie um banco de dados no MySQL.
+Crie um banco de dados no MySQL.
 
 Importe o arquivo projetoETC.sql localizado no repositório para criar as tabelas necessárias.
 
 Configure a conexão com o banco de dados no arquivo config.php.
 
-## 3. Executar o projeto
+## 4. Executar o projeto
 
 Inicie um servidor local como XAMPP, WAMP ou MAMP.
 
